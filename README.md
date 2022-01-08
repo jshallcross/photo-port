@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# University of Toronto Coding BootCamp Code Along Week 20 - React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
